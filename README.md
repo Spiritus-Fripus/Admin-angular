@@ -1,2 +1,3 @@
 # Admin-angular
- School project - School project using angular
+
+SQL base de données dans le dossier ressources
